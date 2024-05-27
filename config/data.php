@@ -1,0 +1,1 @@
+<?php $config = ['base' => 'mystic','loginbase' => 'root','passbase' => '','pwd' => '$2y$10$onyctNsuJjGV1WXUdsBZauim0hl1NuzASC/VNXZDnppfnHRZ4c2Du','db' => '1','login' => 'admin','password' => '2360927',];
